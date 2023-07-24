@@ -5,6 +5,11 @@
 
 I'm an aspiring game developer living in Toronto looking for oppurtunities to create games and spread some joy!
 
+## My Games
+
+<p align="center"> <a href="https://ramdaj.itch.io/chromacity" target="_blank" rel="noreferrer"> <img src="https://img.itch.zone/aW1nLzExOTA4OTMyLmpwZw==/315x250%23c/1hAxbN.jpg" alt="chromacity" width="300" height="240"/> </a> <a href="https://tforty.itch.io/backyard-builders" target="_blank" rel="noreferrer"> <img src="https://img.itch.zone/aW1nLzEyNTQ2MTYzLnBuZw==/315x250%23c/5PpAf7.png" alt="backyard" width="300" height="240"/> </a> </p>
+
+
 - 🔭 I’m currently working on creating a game in Unreal Engine
 - 👯 I’m looking to collaborate on creating games!
 - 📫 How to reach me: Email (ramzi.r.dajani@gmail.com) or discord (ramdaj)
