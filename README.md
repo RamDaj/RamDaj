@@ -11,7 +11,7 @@ I'm an aspiring AI/Game Developer living in Toronto looking for oppurtunities to
 
 
 - 🔭 I’m currently working on creating a game in Unreal Engine
-- 👯 I’m looking to collaborate on creating games!
+- 👯 I’m looking to collaborate on creating games and create advanced AI models!
 - 📫 How to reach me: Email (ramzi.r.dajani@gmail.com) or discord (ramdaj)
 
 <!--
