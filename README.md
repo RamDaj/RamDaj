@@ -5,6 +5,12 @@
 
 I'm an aspiring AI/Game Developer living in Toronto looking for oppurtunities to create games and spread some joy!
 
+## AI Projects
+
+### [LoL Ban Phase picker](https://github.com/RamDaj/LoL-Ban-Phase-Picker)
+
+### [Movie Review Classifier](https://github.com/RamDaj/Movie-Review-Classifier/tree/main)
+
 ## My Games
 
 <p align="center"> <a href="https://ramdaj.itch.io/chromacity" target="_blank" rel="noreferrer"> <img src="https://img.itch.zone/aW1nLzExOTA4OTMyLmpwZw==/315x250%23c/1hAxbN.jpg" alt="chromacity" width="300" height="240"/> </a> <a href="https://tforty.itch.io/backyard-builders" target="_blank" rel="noreferrer"> <img src="https://img.itch.zone/aW1nLzEyNTQ2MTYzLnBuZw==/315x250%23c/5PpAf7.png" alt="backyard" width="300" height="240"/> </a> </p>
